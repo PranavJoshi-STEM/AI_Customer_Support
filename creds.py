@@ -1,0 +1,3 @@
+EMAIL = ''
+PASSWORD = ''
+OPENAI_API_KEY = ''
